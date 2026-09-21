@@ -10,3 +10,6 @@ def format_currency(amount):
 
 def currency(amt):
     return amt
+
+def funds(count):
+    return count + 5
